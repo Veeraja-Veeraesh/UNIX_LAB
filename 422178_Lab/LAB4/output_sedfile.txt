@@ -1,0 +1,113 @@
+Displaying in file
+"
+Hello students
+welcome to unix programming.
+This is to inform that every one must submit lab records to mam.every one and every one.
+Thank you to every one here.
+Bye every one and every one.
+"
+
+changing every to each in all occurances
+"
+Hello students
+welcome to unix programming.
+This is to inform that each one must submit lab records to mam.every one and every one.
+Thank you to each one here.
+Bye each one and every one.
+"
+
+changing every to each in second occurance in a line 
+"
+Hello students
+welcome to unix programming.
+This is to inform that every one must submit lab records to mam.each one and every one.
+Thank you to every one here.
+Bye every one and each one.
+"
+
+changing every to each in all occurance using global g
+"
+Hello students
+welcome to unix programming.
+This is to inform that each one must submit lab records to mam.each one and each one.
+Thank you to each one here.
+Bye each one and each one.
+"
+
+changing every to each in all second and all occurance using global g
+"
+Hello students
+welcome to unix programming.
+This is to inform that every one must submit lab records to mam.each one and each one.
+Thank you to every one here.
+Bye every one and each one.
+"
+
+deleting second line
+"
+welcome to unix programming.
+This is to inform that every one must submit lab records to mam.every one and every one.
+Thank you to every one here.
+Bye every one and every one.
+"
+
+printing new third line
+"
+Hello students
+THIS IS NEW THIRD LINE 
+welcome to unix programming.
+This is to inform that every one must submit lab records to mam.every one and every one.
+Thank you to every one here.
+Bye every one and every one.
+"
+
+print lines only containing word to
+welcome to unix programming.
+This is to inform that every one must submit lab records to mam.every one and every one.
+Thank you to every one here.
+
+deleting line containing word every
+"
+Hello students
+welcome to unix programming.
+"
+
+deleting 1 to 3 lines
+This is to inform that every one must submit lab records to mam.every one and every one.
+Thank you to every one here.
+Bye every one and every one.
+"
+
+deleting last line
+"
+Hello students
+welcome to unix programming.
+This is to inform that every one must submit lab records to mam.every one and every one.
+Thank you to every one here.
+Bye every one and every one.
+
+appending last line
+"
+ appended line
+Hello students
+ appended line
+welcome to unix programming.
+ appended line
+This is to inform that every one must submit lab records to mam.every one and every one.
+ appended line
+Thank you to every one here.
+ appended line
+Bye every one and every one.
+ appended line
+"
+ appended line
+
+capitalising all lines
+"
+HELLO STUDENTS
+WELCOME TO UNIX PROGRAMMING.
+THIS IS TO INFORM THAT EVERY ONE MUST SUBMIT LAB RECORDS TO MAM.EVERY ONE AND EVERY ONE.
+THANK YOU TO EVERY ONE HERE.
+BYE EVERY ONE AND EVERY ONE.
+"
+
