@@ -1,0 +1,7 @@
+"
+Hello students
+welcome to unix programming.
+This is to inform that every one must submit lab records to mam.every one and every one.
+Thank you to every one here.
+Bye every one and every one.
+"

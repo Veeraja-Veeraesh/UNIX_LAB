@@ -1,0 +1,80 @@
+Creating a file archieve containing only text files
+file1.txt
+in.txt
+newfile.txt
+output_awk.txt
+output_tar.txt
+out.txt
+
+Exporting files
+file1.txt
+in.txt
+newfile.txt
+output_awk.txt
+output_tar.txt
+out.txt
+
+creating gzip file txt
+file1.txt
+in.txt
+newfile.txt
+output_awk.txt
+output_tar.txt
+out.txt
+
+exporting gzip files
+file1.txt
+in.txt
+newfile.txt
+output_awk.txt
+output_tar.txt
+out.txt
+
+lists out all the files in file tar
+-rw-rw-r-- pavan422178/pavan422178 136 2024-02-28 14:20 file1.txt
+-rw-rw-r-- pavan422178/pavan422178 195 2024-03-04 12:01 in.txt
+-rw-rw-r-- pavan422178/pavan422178   0 2024-03-04 22:32 newfile.txt
+-rw-rw-r-- pavan422178/pavan422178 2986 2024-03-04 11:40 output_awk.txt
+-rw-rw-r-- pavan422178/pavan422178   96 2024-03-05 00:27 output_tar.txt
+-rw-rw-r-- pavan422178/pavan422178    0 2024-03-04 13:41 out.txt
+
+appending new file
+newfile.txt
+
+file1.txt
+in.txt
+newfile.txt
+output_awk.txt
+output_tar.txt
+out.txt
+newfile.txt
+
+creating gzip file containg new_directory
+new_directory/
+
+new_directory/
+
+explicitly listing out a particular file
+-rw-rw-r-- pavan422178/pavan422178 0 2024-03-04 13:41 out.txt
+
+size of tar file
+79
+
+size of gzip file
+15
+
+upadting existing files
+os.c
+
+
+exporting all files in tar file 
+file1.txt
+in.txt
+newfile.txt
+output_awk.txt
+output_tar.txt
+out.txt
+newfile.txt
+os.c
+
+end of file.

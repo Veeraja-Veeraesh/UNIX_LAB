@@ -1,0 +1,60 @@
+
+destroy.c
+destroy_obj.o
+dynamic.sh
+eg_dynamic.so
+eg_static.a
+head.h
+init.c
+init_obj.o
+isEmpty.c
+isEmpty_obj.o
+isFull.c
+isFull_obj.o
+main.c
+main_obj.o
+main_result
+peek.c
+peek_obj.o
+pop.c
+pop_obj.o
+push.c
+push_obj.o
+STACK_EXE.txt
+static_out.txt
+static.sh
+
+
+pushed 1 into stack 
+pushed 4 into stack 
+pushed 9 into stack 
+pushed 16 into stack 
+pushed 25 into stack 
+popped 25 out of stack 
+top element of the stack is 16 
+successfully destroyed stack 
+
+destroy.c
+destroy_obj.o
+dynamic.sh
+eg_dynamic.so
+eg_static.a
+head.h
+init.c
+init_obj.o
+isEmpty.c
+isEmpty_obj.o
+isFull.c
+isFull_obj.o
+main.c
+main_obj.o
+main_result
+peek.c
+peek_obj.o
+pop.c
+pop_obj.o
+push.c
+push_obj.o
+STACK_EXE.txt
+static_out.txt
+static.sh
