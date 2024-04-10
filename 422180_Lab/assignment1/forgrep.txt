@@ -1,0 +1,7 @@
+This is a sample text file.
+It contains various lines of text.
+Line 1: 12345, apple, banana
+Line 2: 67890, orange, grapes
+Line 3: !@#$, cherry, mango
+Line 4: This is a longer line with more words.
+...

@@ -1,0 +1,12 @@
+** Creating a compressed archive:**
+week4_folder1/
+week4_folder1/file1.txt
+week4_folder1/file2.txt
+\n** Listing the contents of an archive:**
+drwxrwxr-x veeraja/veeraja   0 2024-03-05 21:53 week4_folder1/
+-rw-rw-r-- veeraja/veeraja  33 2024-03-05 21:53 week4_folder1/file1.txt
+-rw-rw-r-- veeraja/veeraja  48 2024-03-05 21:53 week4_folder1/file2.txt
+\n** Extracting an archive:**
+week4_folder1/
+week4_folder1/file1.txt
+week4_folder1/file2.txt
