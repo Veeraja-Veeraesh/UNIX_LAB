@@ -53,3 +53,4 @@ awk 'function sumFirstN(n)
 } {print $4 " = " sumFirstN($4)}' file1.txt
 echo ""
 
+

@@ -13,3 +13,4 @@ echo ""
 sed '5,$d' file1.txt
 echo ""
 sed '/22/d' file1.txt
+
