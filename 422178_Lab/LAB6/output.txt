@@ -1,0 +1,206 @@
+100
+
+10
+
+2
+
+9
+
+0
+
+3.14159265358979323844
+
+.86602540378443864675
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+m is greater
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+cat file1.txt
+Apaar 
+Ayush Rajput
+Deepak
+Hemant
+
+cat file2.txt
+Apaar
+Hemant
+Lucky
+Pranjal Thakral
+
+	Apaar
+Apaar 
+Ayush Rajput
+Deepak
+		Hemant
+	Lucky
+	Pranjal Thakral
+
+Apaar
+	Hemant
+Lucky
+Pranjal Thakral
+
+	Apaar
+Apaar 
+Ayush Rajput
+Deepak
+	Lucky
+	Pranjal Thakral
+
+Hemant
+
+%Apaar
+Apaar 
+Ayush Rajput
+Deepak
+%%Hemant
+%Lucky
+%Pranjal Thakral
+
+comm (GNU coreutils) 8.32
+Copyright (C) 2020 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <https://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Richard M. Stallman and David MacKenzie.
+
+	Apaar
+Apaar 
+Ayush Rajput
+Deepak
+		Hemant
+	Lucky
+	Pranjal Thakral
+
+
+
+group of 'file1.txt' retained as pavan422178
+
+
+
+
+
+ownership of 'file1.txt' retained as pavan422178
+
+
+1,3c1
+< Apaar 
+< Ayush Rajput
+< Deepak
+---
+> Apaar
+4a3,4
+> Lucky
+> Pranjal Thakral
+
+*** file1.txt	2024-03-31 21:39:06.611182191 +0530
+--- file2.txt	2024-03-31 21:40:12.463182191 +0530
+***************
+*** 1,4 ****
+! Apaar 
+! Ayush Rajput
+! Deepak
+  Hemant
+--- 1,4 ----
+! Apaar
+  Hemant
++ Lucky
++ Pranjal Thakral
+
+--- file1.txt	2024-03-31 21:39:06.611182191 +0530
++++ file2.txt	2024-03-31 21:40:12.463182191 +0530
+@@ -1,4 +1,4 @@
+-Apaar 
+-Ayush Rajput
+-Deepak
++Apaar
+ Hemant
++Lucky
++Pranjal Thakral
+
+1,3c1
+< Apaar 
+< Ayush Rajput
+< Deepak
+---
+> Apaar
+4a3,4
+> Lucky
+> Pranjal Thakral
+
+diff (GNU diffutils) 3.8
+Copyright (C) 2021 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <https://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Paul Eggert, Mike Haertel, David Hayes,
+Richard Stallman, and Len Tower.
+
+2,3d1
+< Ayush Rajput
+< Deepak
+4a3,4
+> Lucky
+> Pranjal Thakral
+
+Login: pavan422178    			Name: pavan422178
+Directory: /home/pavan422178        	Shell: /bin/bash
+On since Thu Apr  4 21:08 (IST) on tty2 from tty2
+   33 minutes 23 seconds idle
+No mail.
+No Plan.
+
+Login        Name          Tty      Idle  Login Time   Office     Office Phone
+pavan422178  pavan422178   tty2       33  Apr  4 21:08 (tty2)
+
+Login: pavan422178    			Name: pavan422178
+Directory: /home/pavan422178        	Shell: /bin/bash
+On since Thu Apr  4 21:08 (IST) on tty2 from tty2
+   33 minutes 23 seconds idle
+No mail.
+
+Login: pavan422178    			Name: pavan422178
+Directory: /home/pavan422178        	Shell: /bin/bash
+On since Thu Apr  4 21:08 (IST) on tty2 from tty2
+   33 minutes 23 seconds idle
+No mail.
+No Plan.
+
+Login: pavan422178    			Name: pavan422178
+Directory: /home/pavan422178        	Shell: /bin/bash
+On since Thu Apr  4 21:08 (IST) on tty2 from tty2
+   33 minutes 23 seconds idle
+No mail.
+No Plan.
+./HELLO/file1.txt
+
+./HELLO/ok
+./HELLO/file1.txt
+
+./lab8.sh
+
+
+dd if=file1.txt of=output_file.txt
+
