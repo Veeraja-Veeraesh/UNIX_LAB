@@ -102,12 +102,6 @@ find . -type f -exec grep -l "pattern" {} \;
 echo ""
 find ./HELLO -name factorial.sh -exec rm -i {} \; 
 echo ""
-
-#dd command
-echo "dd if=file1.txt of=output_file.txt"
-dd if=file1.txt of=output_file.txt
-echo ""
-
 # ftp command
 tnftp -4 www.google.com
 tnftp -6 www.google.com
